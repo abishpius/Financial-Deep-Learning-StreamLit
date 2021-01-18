@@ -1,4 +1,7 @@
 # Financial-Deep-Learning-StreamLit
+
+[Check out the APP](https://share.streamlit.io/abishpius/financial-deep-learning-streamlit/main/Time_Series_APP.py)
+
 This web app uses an LSTM model to predict any time series model range given an input of data (in csv format) in two columns with time in the first column and values in the second column. There should be no headers in your CSV file, see submission example in the repository.
 <br>
 <br>
